@@ -35,7 +35,7 @@
 .company-name,
 .company-description,
 .Project-description {
-    font-size: small;
+    font-size: medium;
     opacity: .8;
 }
 
@@ -82,3 +82,9 @@ a {
     width: 70px;
     height: 30px;
 }
+
+.more-btn[aria-expanded="true"]{
+    display: none;
+}
+
+.mw-100px{max-width: 1000px;}
