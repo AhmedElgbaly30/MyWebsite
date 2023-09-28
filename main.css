@@ -1,4 +1,4 @@
-.cursive-font{
+.cursive-font {
     font-family: cursive;
 }
 
@@ -83,8 +83,14 @@ a {
     height: 30px;
 }
 
-.more-btn[aria-expanded="true"]{
+.more-btn[aria-expanded="true"] {
     display: none;
 }
 
-.mw-100px{max-width: 1000px;}
+.mw-1000px {
+    max-width: 1000px;
+}
+
+.mw-900px {
+    max-width: 900px;
+}
